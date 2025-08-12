@@ -38,6 +38,8 @@ Use cout to print:
 
 
 
+CODE2:
+
 Step 1: Start
 Step 2: Define a class named cube
 Declare three integer data members:
