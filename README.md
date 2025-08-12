@@ -99,3 +99,51 @@ Output the value of vol using cout.
 
 Step 6: End the program
 Use return 0; to exit main() properly
+
+CODE4:
+Step 1: Start
+Step 2: Define a class named cube
+Declare three public integer variables:
+
+height
+
+width
+
+length
+
+Step 3: Define the input() method
+Prompt the user to enter values:
+
+Ask for height → store in height
+
+Ask for width → store in width
+
+Ask for length → store in length
+
+Step 4: Define the vol() method
+Calculate volume using the formula:
+
+volume
+=
+height
+×
+width
+×
+length
+volume=height×width×length
+Return the calculated volume
+
+Step 5: Define the display() method
+Call the vol() method to get the volume
+
+Print the volume using cout
+
+Step 6: In the main() function
+Create an object v1 of the class cube
+
+Call v1.input() to accept dimensions from the user
+
+Call v1.display() to show the volume on the screen
+
+Step 7: End
+
