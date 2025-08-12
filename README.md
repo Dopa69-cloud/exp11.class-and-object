@@ -147,3 +147,31 @@ Call v1.display() to show the volume on the screen
 
 Step 7: End
 
+CODE3:
+Step 1: Start
+Step 2: Define a class named cube
+Mark three attributes as private:
+
+height ← 4
+
+width ← 5
+
+length ← 3
+
+Step 3: Inside the class, define a public method volume()
+Multiply height, width, and length.
+
+Store the result in a local variable v.
+
+Return v (which represents the volume).
+
+Step 4: In the main() function
+Create an object d1 of class cube.
+
+Call the volume() method using object d1.
+
+Store the returned volume in a variable vol.
+
+Step 5: Print the volume
+Use cout to print:
+
